@@ -1,4 +1,4 @@
-# Unsupervised-ML-project
+# NETFLIX_Movies_And_TV_Shows_Clustering
 ## INTRODUCTION
 
 ### Problem Statement
